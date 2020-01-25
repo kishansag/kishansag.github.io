@@ -1,0 +1,27 @@
+body {
+    padding: 5%;
+}
+
+h1 {
+    font-family: 'Cabin Sketch', cursive;
+    font-size: 4em;
+    color:#990000;
+}
+
+.contact_links, .information, .goals{
+    font-family: 'Marmelad', sans-serif;
+    font-size: 1.5em;
+}
+
+a {
+    color:#990000;
+}
+
+table {
+    border-collapse: collapse;
+    font-size: 1em;
+}
+
+.date{
+    color:#c1c0c0;
+}
