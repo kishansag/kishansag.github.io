@@ -1,0 +1,656 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Posts on Kishan Sagathiya</title>
+   <link>https://kishansagathiya.github.io/posts/</link>
+   <description>Recent content in Posts on Kishan Sagathiya</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>en-us</language>
+   <lastBuildDate>Fri, 24 Jul 2020 13:57:10 +0530</lastBuildDate>
+   
+       <atom:link href="https://kishansagathiya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>Golang Is Not Truly Opensource</title>
+       <link>https://kishansagathiya.github.io/posts/golang-is-not-truly-opensource/</link>
+       <pubDate>Fri, 24 Jul 2020 13:57:10 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/golang-is-not-truly-opensource/</guid>
+       <description>&lt;p&gt;For the most of my career I have written softwares using Golang and almost all
+of my code resides on the world to see.&lt;/p&gt;
+&lt;p&gt;I have a certain image of an Open Source project in my mind:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Code for Everyone to see&lt;/li&gt;
+&lt;li&gt;Lot of people use the software&lt;/li&gt;
+&lt;li&gt;They have a say in what happens to the project&lt;/li&gt;
+&lt;li&gt;The project attempts to explain what the code does&lt;/li&gt;
+&lt;li&gt;The project attempts to be easily accessible and conforms to the community rules&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Softwares are complex and big. If I put my code on GitHub for all to see without
+good documentation, it is just as bad as not putting the code in public. No one
+will be able to make sense of that. Most companies do this and act as if they care
+about opensource. Putting your junk software on GitHub is not open source.&lt;/p&gt;
+&lt;p&gt;If you build something for your specific use case and no one else needs that product,
+don&amp;rsquo;t bother showing that source code to people. If Facebook has the code
+for their site &lt;code&gt;facebook.com&lt;/code&gt; for all to see and all of its contributors are
+employees of facebook, all the people asking for features are employees of facebook and
+no other organization is building a facebook-competitor using this code, I would not
+call it open source, because no one else cares for the code except themselves. It
+might as well be closed source and it won&amp;rsquo;t make any difference.&lt;/p&gt;
+&lt;p&gt;Most of the contributors are on either GitHub or GitLab. Using your own git platform is
+basically like telling that we don&amp;rsquo;t care if we get contributors or not and we don&amp;rsquo;t
+care what other software engineers think.&lt;/p&gt;
+&lt;p&gt;Almost all of the developers of Golang are Google Employees. It is part of the google
+and not a neutral foundation. They use their own git platform instead of GitHub or
+GitLab. They have religiously ignore heavily demanded features from the community. It
+is being developed more like an iPhone, where you think that users are dumb they don&amp;rsquo;t
+know what they want. Golang is a great language, but it sure as heck not open source.
+Having such a strong user base of Golang, gives them a great power and control over
+the developers and indirectly the way they develop softwares. This powers can be easily
+used to do good of Google rather than others.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>How to Take Advice</title>
+       <link>https://kishansagathiya.github.io/posts/how-to-take-advice/</link>
+       <pubDate>Sun, 19 Jul 2020 13:59:59 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/how-to-take-advice/</guid>
+       <description>&lt;p&gt;In general the rule of thumb in taking advice is &lt;code&gt;do as I do, not do as I say&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Internet is filled with successful people giving advices. Elon Musk, Peter Theil,
+etc. Apply their advice in your life and you will live a miserable poor life.&lt;/p&gt;
+&lt;p&gt;Let me break this down.&lt;/p&gt;
+&lt;p&gt;Most of successful people thinks that world is what they have experienced. In
+reality, they are all outliers. World they experience is vastly different than
+any one of us experience. They are successful, so they can get away with pretty
+much whatever bullshit they desire like work non-stop, or don&amp;rsquo;t go to college.
+And their blind follower will somehow convince themselves whatever this
+successful-but-ignorant dude is saying is the right thing to do.&lt;/p&gt;
+&lt;p&gt;When they give you advice, they are thinking that whatever worked for them
+will work for you too, without realizing how big of an outlier they are. Only
+data point they have considered is themselves. If not, they have also considered
+some of their other successful friends who are just as ignorant of the world as
+they are. Their heads are so far up their asses they have no grasp of reality
+or common sense. They can&amp;rsquo;t fathom that there is any other way of thinking than
+their own.&lt;/p&gt;
+&lt;p&gt;Think about this advice &lt;code&gt;don&#39;t go to college&lt;/code&gt;. First of all, people who scored
+straight As in their college are telling others to not go to college. Ask one
+of them to fund a company started by someone without a college degree and see
+what happens? See how many fancy college grads they themselves have hired. Bryan
+Caplan is an economist who devoted his life to study education system in US. He
+has written a book called &lt;code&gt;The case against Education&lt;/code&gt;. He argues about how useless
+higher education is, but even he agrees that on an individual level there are
+great benefits of going to college. For example, having a Masters degree will
+get you 10% more annual salary than an someone doing the same job without a Masters
+degree.&lt;/p&gt;
+&lt;p&gt;Moreover, most of these people have to secure their company&amp;rsquo;s own interest.
+Everything that they say is sugar-coated to protect their organization&amp;rsquo;s interests.
+For example, Elon Musk keeps talking about how AI is going to take over the world.
+Ask anyone who has learn AI (think a Masters degree in AI) and he will tell you
+how big of a lie it is. Some of them go even as far as saying that it will create
+jobs.&lt;/p&gt;
+&lt;p&gt;One of the business-person, I really respect is Shridhar Vembu. He is as honest as
+a business-person can get. He describes a PhD degree as mental masterbation and he
+regrets having one. I like to think the mental masterbation part to be true, but my
+guess is that without that PhD it would have been quite difficult for him to even
+enter the borders of USA and he would have lost a lot of business because of that.&lt;/p&gt;
+&lt;p&gt;From a biological standpoint, greatest flattery is still imitation and people
+reward imitation. That&amp;rsquo;s why college professors care so deeply about grades. That&amp;rsquo;s
+why people hire from their own almamater, etc. My intution is that to be successful,
+you have to conform to current stardards, regardless of how useless they are.&lt;/p&gt;
+&lt;p&gt;In general, it is a good idea to take advice from economists than anyone who is
+successful.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Tech Recruiting</title>
+       <link>https://kishansagathiya.github.io/posts/tech-recruiting/</link>
+       <pubDate>Sat, 18 Jul 2020 14:01:19 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/tech-recruiting/</guid>
+       <description>&lt;p&gt;Recruiting in tech is a very interesting problem and I feel like very few companies
+have nailed this well, mostly because of nature of the problem.&lt;/p&gt;
+&lt;p&gt;Recruiting Software Engineer in general is a difficult task. Grades tell you if the
+person is hard-working and conformist. There is a positive co-relation between Grades
+and whether you can code or not, but it is not so strong. There is a positive
+co-relation between your competitive coding skills (think data structures and algorithms),
+but it is still not strong, because competitive programming requires you to spend a lot
+of time banging your head to solve some puzzle and relatively little time programming.
+Real life software development also requires you to bang your head to fix a bug, but
+it involves a lot more of reading through the documentation, searching through the
+internet and reading articles. If you have written softwares before, that definitely
+is a positive indication, but there is no telling how long you will take to learn things
+in this new organization. So, clearly what you can show on paper is not good
+enough to figure out if you can write good software, but neigher is interviewing you
+for a bunch of hours.
+Thus making it a very interesting problem.&lt;/p&gt;
+&lt;p&gt;In my experience, most start-ups don&amp;rsquo;t have rigid hiring method, partly because they
+are still learning how they should select people for their new organization. Software
+Engineers that makes sense for big corps, don&amp;rsquo;t necessarily make sense for start-ups.
+Start-ups optimize for skills (what can you do right now). Big corp optimize for
+capabilities (what can you do six months from now, or even longer).&lt;/p&gt;
+&lt;p&gt;Overtime a typical startup find a good method to hire candidates that works for them.
+But soon enough, they are going to be bigger, they will be getting a lot more applications
+and they would be able to invest more time in letting a talented person learn a new
+skills. They will have to change their method again and they will have to optimize their
+method for capabilities and elimination. In optimizing for elimination they will lose
+some good candidates, but they can probably afford it and they don&amp;rsquo;t have resources to
+consider all of them seriously.&lt;/p&gt;
+&lt;p&gt;Another problem for startups is that they have hire people with skills which they themselves
+(members of the startup) don&amp;rsquo;t possess.&lt;/p&gt;
+&lt;p&gt;Someone could possibly master this art of recruiting and putting people in right boxes.
+May be, someday we will have an app like Uber for Engineers. You just tell the app what
+what you are looking for, how many people you are looking for and it will show you a bunch
+of engineers which you hire without even interviewing.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Align the Interests!</title>
+       <link>https://kishansagathiya.github.io/posts/align-the-interests/</link>
+       <pubDate>Sat, 20 Jun 2020 14:05:00 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/align-the-interests/</guid>
+       <description>&lt;p&gt;Any business where the interests of consumer and producer are not aligned, is
+begging to be disrupted.&lt;/p&gt;
+&lt;p&gt;A mutual fund house is not sufficiently incentivized to grow money invested in the
+fund. It is not their money. People working in finance can make more money by sales,
+than making your product better. You make more money by selling your mutual fund
+units than making better investment decisions using existing cash. It takes years
+to determine whether a investment decision is right or not. An employee working in
+a finance company wants promotion. How can the management determine which employee
+is better? How can an employee impress their boss? Sales. Just sales. Interest of
+Fund manager and an individual who invested in the fund are not aligned. If 50% of
+the money is invested by the fund itself, investment decisions would be significantly
+different.&lt;/p&gt;
+&lt;p&gt;A real estate agent can make more money by selling you a shitty house at high price
+than selling you a good house and lower price. They don&amp;rsquo;t have to care about customer
+satisfaction, because customers are not recurring. People buy houses only few times in
+their lifetime. Interests are not aligned.&lt;/p&gt;
+&lt;p&gt;A university can make more money by selling you their shitty program at high price
+than actually finding what will help you the most with your career. Customers are not
+recurring here and it will take years to determine the true value of your education.
+Interests are not aligned here. Universities are more incentivized to sell than
+actually delivering customer utility.&lt;/p&gt;
+&lt;p&gt;Private universities are in the same league as an investment house and real estate.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Spineless Intelligents Will Work for Risk Taking Idiots</title>
+       <link>https://kishansagathiya.github.io/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</link>
+       <pubDate>Sat, 20 Jun 2020 14:03:18 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</guid>
+       <description>&lt;p&gt;In a world full of so many opportunities, where a poor person has all the valuable
+information at their disposle to make their life better, intelligent and hard-working
+people are abundant.&lt;/p&gt;
+&lt;p&gt;In the working world, there are basically two kinds of people, enterpreneurs and
+investor.&lt;/p&gt;
+&lt;p&gt;Enterpreneurs do all sorts of unconventional things to get users and
+create hype for whatever they are doing. A significant number of them are scams,
+dillusional and are trying to do things in which they have no expertise, but they
+will claim to have expertise in them.&lt;/p&gt;
+&lt;p&gt;Investor are of two types, ex-enterpreneurs who made a lot of money and people
+from fancy colleges. An enterpreneur-turned-investor who created a company in
+a specific sub-industry is an expert in the product that they built and customers
+of their product. Their knowledge is very much in this very specific area and
+questionable in everything else. But because they became successful in that, they
+somehow start thinking that they know about other things too. Very few people
+try to show them the reality that they are not expert in other things, because
+they are successful. They make mistakes of investing in companies  and industries
+which they know very little about. They end up investing in companies than can put
+on a show.&lt;/p&gt;
+&lt;p&gt;A guy-from-fancy-college investor doesn&amp;rsquo;t care if his/her investment choices are
+good or not, because a) it is not his money and b) 6 years from now when returns
+of those investment would come he would be working at some other firm. He knows
+nothing about how that AI company can different between human and cat and how
+that new cryptocurrency algorithm is even valid. He is interested in investing
+in companies that can create great buzz so that he can get a promotion or a better
+job. They too invest in companies that can put on a show.&lt;/p&gt;
+&lt;p&gt;Everytime I go see what new opportunities are there in the market, I see shitty
+companies about which I can tell that their product is not going to move a needle.
+But I have to think about applying there, because they have got huge funding and
+pay great salaries.&lt;/p&gt;
+&lt;p&gt;Intelligent people who take calculated risks go a long way, mostly because there
+are so few.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Why Is BTech in India Four Years Long?</title>
+       <link>https://kishansagathiya.github.io/posts/why-is-btech-in-india-four-years-long/</link>
+       <pubDate>Sun, 14 Jun 2020 14:07:30 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/why-is-btech-in-india-four-years-long/</guid>
+       <description>&lt;p&gt;An Undergraduate Engineering degree is the most popular degree in India. If you
+are reading this and you are indian, there are high chances that you are an
+engineer.&lt;/p&gt;
+&lt;p&gt;Try to remember the subjects in your Bachelor&amp;rsquo;s degree. Let&amp;rsquo;s try to remove
+everything that was useless in that degree and see what is left.
+Regardless of your engineering branch, the first year of engineering is same
+for all. In most cases, there are only one or two relevant subjects to your
+branch. So, out of 12 subjects in first year, you are never going to use 10
+subjects. Let&amp;rsquo;s get rid of them. The last year has very few subjects. Most
+students study very little and just waste their time in the last year (smoke,
+drink, hike, go home, pretty much whatever tickles their fancy). Let&amp;rsquo;s get rid
+of that extra time. So, you have got a curriculum that you can very conveniently
+finish in 3 years.&lt;/p&gt;
+&lt;p&gt;This is not a crazy idea. In UK, you have 3-years Bachelor&amp;rsquo;s degrees. College
+administration will try to fool you by saying things like we are promoting
+interdisciplinary studies.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Then, why are our degrees 4 years long?
+Because Universities in US would not accept a 3 years Bachelor&amp;rsquo;s degree. A huge
+chunk of engineering students go to US for higher studies. Even if they don&amp;rsquo;t
+have a plan they would want that option to be open. Not many BSc student go to
+US for higher studies, thus most BSc programs in India are 3 years long. But
+a Bachelors of Science from IISc is a 4-year long program, so that they can study
+in US.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Why would they not accept 3 year degrees?
+Because in US a Bachelors degree (both engineering and science) is 4 years long.
+In most countries, prominent universities, universities where brightest students
+and brightest researchers go are public universities. But in US, most prominent
+universities and most universities as well are private universities. This includes
+all ivy leagues (Harvard, Yale, MIT, Cornell, Brown, Dartmouth, University of
+Pennsylvania), Stanford and most universities that does not have &lt;code&gt;state&lt;/code&gt; in their
+name. Their main goal is to make money, just like any other private company. A
+4-year program gets them tuition fee for one extra year. Accepting a students with
+3-Year Bachelors program hurts the business. Now because of this, state universities
+in US also has to fall in line and keep a 4-year degree, so that their students
+remain eligible to study at these private university. Of course, they would never
+accept that this is why they do it.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This is not just limited to Bachelors. A PhD program in US is 5 years long, while
+it does not have to be. In Europe(including UK), PhD program are typically 3 years
+long. Some programs are 4-years long, but that is max. A PhD student is a highly
+intelligent individual who is substantially underpaid. Having a PhD student
+stick around for 2 extra years, saves money on teaching and research staff. Often
+advisers intentionally block doctorates, so that they can utilize their students as
+cheap resources. Universities would argue that a 5-Year PhD would give you
+substantial research exposure, which is true. But again, they are just trying to
+fool people. A 7-year PhD program would give even more research exposure. Heck,
+better yet 10-years would give even better exposure.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to fix it?
+Indians could have handled the situation smartly. We should have a 3-Years Bachelors
+program and when a 21 year old adult(?) thinks that opportunity cost of studying at a
+university that secretly invests in fossil fuels and not earning for two years is
+justified they can take extra courses to finish credit-requirements to satisfy a 4-Year
+degree program.
+(Hint: Name of that university rhymes with &lt;code&gt;Howard&lt;/code&gt;. Also, what a dumb investment!)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I wasted a year in the prime of my life because of stupidity of Indian Education system
+and profit-hungry private colleges and so does many other students.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Master in AI</title>
+       <link>https://kishansagathiya.github.io/posts/master-in-ai/</link>
+       <pubDate>Tue, 19 May 2020 14:09:44 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/master-in-ai/</guid>
+       <description>&lt;p&gt;Few days ago I purchased the domain name &lt;a href=&#34;masterinai.com&#34;&gt;masterinai.com&lt;/a&gt; and launched a site
+that would give people certificate saying that &lt;code&gt;You have finished the coursework equivalent to that of a masters program and you possess similar knowledge&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Currently, education is free. If you want to learn anything, you can go online,
+find free books, tutorials series, video lectures. There are even sites that
+let&amp;rsquo;s you do free exercises. The education methods available online are highly
+superior compared to that of your college professor and classroom learning.
+This is truly great time for those who want to learn. You are not limited by
+resources, but only by your willingness to learn.&lt;/p&gt;
+&lt;p&gt;So, it is not really possible to charge someone a lot for education material.
+Despite this, colleges are still thriving. Despite their exuberant fees, there
+is tremendous competition for getting college programs. That clearly tells that
+colleges are providing something that is truly valuable.&lt;/p&gt;
+&lt;p&gt;Colleges provide you with recognition and community. A job, a bootcamp or a
+series of online courses might not remain relevant or significant enough to put
+on your resume after some years. Unlike those, a college degree stays on your
+resume for the rest of your life.&lt;/p&gt;
+&lt;p&gt;Is it possible to provide valuable recognition at a cheaper cost and without
+having to go through thousand things that are wrong with colleges?&lt;/p&gt;
+&lt;p&gt;I will try to come up with a framework to be recognised, given that you possess
+the knowledge.&lt;/p&gt;
+&lt;p&gt;In other words, say a 40 years old English Teacher wants to get a job at Google
+as an AI Researcher. He cannot afford to leave his job, not earn for two years,
+and pay $80,000 tuition fees. Luckily, there is an online degree option for a
+much cheaper price, $30,000. But to even apply for the program, he has to write
+GRE (so irrelevant), prepare a letter of motivation to do that program, find
+two recommendation letters. Even, if he does that he might just get rejected,
+because he doesn&amp;rsquo;t really have the relevant background. Say, he is hardworking,
+self motivated and willing to finish the complete masters level coursework to
+prepare him to do research in AI. How can he prove that he is as good as
+someone with a masters degree and deserves that job? This the recognition
+problem.&lt;/p&gt;
+&lt;p&gt;As per the framework I am proposing, if he finishes following tasks, he should
+be deemed equivalent to having a masters degree:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Say, every chapter in the coursework contains quizzes. He has to clear every
+quiz.&lt;/li&gt;
+&lt;li&gt;Where applicable a chapter would be accompanied with assignments. He has to
+clear all assignments.&lt;/li&gt;
+&lt;li&gt;A showcasable usable project in the field.&lt;/li&gt;
+&lt;li&gt;Significant contributions to a known and already in use project in the field.
+The important thing here is to be able to show your individual contributions
+clearly. For example you could show your GitHub Pull Requests, if the project
+is on GitHub. A group project where you are not able to pin point your
+contributions is as good as nothing. It is much better to have have all of your
+contribution linked to each other. For example, fixing bugs or doing small issues
+for an open source project does not really tell much about your abilities. Building
+a whole new component from start does. If all these conditions are met such
+contributions can be considered as an alternative to the project component.&lt;/li&gt;
+&lt;li&gt;Publish a research paper.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to show that you have done, 3 to 5, you can do it on you own. To show
+that you have cleared tests and assignments, you would need some site where you
+submit those things and get a proof that you cleared them.&lt;/p&gt;
+&lt;p&gt;Why do I have to do 1 and 2? Can&amp;rsquo;t I just create a cool project, contribute to
+an open source project and publish a paper? There are examples of many people
+getting jobs that way.
+&amp;ndash;&amp;gt; Yes, that is something that you can do. But it is not same as a
+degree. Doing project or publishing a paper gets you really deep
+into a topic. A degree gives you breadth as well. It gives you
+a decent idea about all aspects of the main subject you are trying
+to master. You can build a &lt;code&gt;personalized news&lt;/code&gt; app that utilizes
+Reinforcement Learning, but that doesn&amp;rsquo;t mean you understand all
+other subjects of AI. There is value in getting that breadth.
+Having breadth benefits you in the long term.&lt;/p&gt;
+&lt;p&gt;A site that provides those MCQ tests, Assignments, interactive communities through
+online and sometimes offline events, provides certificates for finishing the program,
+categorizes students based on their abilities and performance and helps them with
+getting jobs through industry relations can replace colleges.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Income Share Agreements</title>
+       <link>https://kishansagathiya.github.io/posts/income-share-agreements/</link>
+       <pubDate>Fri, 15 May 2020 14:13:59 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/income-share-agreements/</guid>
+       <description>&lt;p&gt;Income Share Agreements are an excuse for education companies and colleges to
+charge a lot more money than what they truly deserve. A better way to do this
+would be to charge companies when they want to hire fresh graduates.&lt;/p&gt;
+&lt;p&gt;High tuition fees are unjustifiable, because knowledge has become cheap. The
+internet is filled with wonderful study materials, books, videos and tutorials.
+In such an environment, the marginal cost of a new study material that your
+college/bootcamp/(whatever new fancy thing they like to call these days) provide is
+negligible (close to zero).&lt;/p&gt;
+&lt;p&gt;Private companies are utilizing ISAs. If your ISA says, we will take x percent,
+of your salary for first two years of your employment, your educators have incentives
+to actually get you a great job. Which is good for you.&lt;/p&gt;
+&lt;p&gt;But now all these expensive universities have started using ISAs.
+Because students don&amp;rsquo;t have to pay right now, they don&amp;rsquo;t realize the fact that
+they are being charged way too much money. It is same as the trap of loan. If
+there were no education loans, how many students would be willing to pay these
+exuberant prices? Much less students. Would that make colleges/bootcamps lower
+their prices? Significantly.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Creators and Engineers</title>
+       <link>https://kishansagathiya.github.io/posts/creators-and-engineers/</link>
+       <pubDate>Fri, 15 May 2020 14:12:18 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/creators-and-engineers/</guid>
+       <description>&lt;p&gt;For good or bad, you don&amp;rsquo;t need to be a Good Engineer to create a useful product.
+Most users don&amp;rsquo;t know the first thing about privacy, security and optimisation.&lt;/p&gt;
+&lt;p&gt;There is thread trending on hacker news about someone whose extension is being
+removed from Google Web Store. This person has written some seriously bad code,
+and is so clueless about why Google is removing their extension. His/her extension
+has more than a million users.&lt;/p&gt;
+&lt;p&gt;Elon Musk shipped products faster by writing crappy code. He famously wanted to
+use Microsoft Servers instead on Linux, because doing so would have helped them ship
+things faster. Max Levchin threatened to leave if they did not use Linux Servers.
+Most companies that used Microsoft servers died, they survived, because PayPal
+luckily used Linux Servers.&lt;/p&gt;
+&lt;p&gt;If you don&amp;rsquo;t know binary trees well, you are not a good engineer. If you create
+Homebrew, that doesn&amp;rsquo;t change the fact that you are not a good engineer. You are
+a good creator. Engineers optimise, clean. They have keen eye for details.&lt;/p&gt;
+&lt;p&gt;Most startups ship things faster by writing crappy code. Fancy word for that is
+&lt;code&gt;organically developed&lt;/code&gt; (read a giant hot mess). That code is a ticking time-bomb.
+If people start using the thing, they eventually hire &lt;code&gt;engineers&lt;/code&gt;, who will unravel
+that mess. The company survives.&lt;/p&gt;
+&lt;p&gt;Big companies often use &lt;code&gt;engineers&lt;/code&gt; to build new products, who will try hard to not
+ship bad code. They end up shipping fewer products and even fewer useful products.
+Often most of their successful products are accessories/integrated to their primary
+product (built by founders). Often a lot of their successful products are built by
+startups that they acquired.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>My Brain Dump to Improve Higher Education</title>
+       <link>https://kishansagathiya.github.io/posts/my-brain-dump-to-improve-higher-education/</link>
+       <pubDate>Tue, 28 Jan 2020 14:15:36 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/my-brain-dump-to-improve-higher-education/</guid>
+       <description>&lt;p&gt;These are my notes when I was thinking on how can I build to a college of my dreams.
+I don&amp;rsquo;t know when I will be able to do it, since&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;it will definitely require funding,&lt;/li&gt;
+&lt;li&gt;it would take really long time to make a different kind of college mainstream,&lt;/li&gt;
+&lt;li&gt;amount of money to be made are probably not justifiable with the efforts that
+anyone will have to put.  I will feel as if I am doing a disservice if I try to
+the society squeeze more money&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So, I am putting all of my raw thoughts here, so if someone with superpowers ever
+gets lost on this corner of the internet, there is a tiny chance that this will
+become a reality. For more context read my previous two blogs &lt;a href=&#34;https://medium.com/@kishansagathiya/faults-in-our-higher-education-system-ad68bc0abe9b&#34;&gt;Faults in our higher education system&lt;/a&gt; and &lt;a href=&#34;https://medium.com/@kishansagathiya/and-how-to-fix-them-6372a6a49efe&#34;&gt;And how to fix them&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://kishansagathiya.github.io/pdfs/Jamooraa_Braindump.pdf&#34;&gt;PDF of Brain Dump&lt;/a&gt;&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Problems With Working Remotely From India</title>
+       <link>https://kishansagathiya.github.io/posts/problems-with-working-remotely-from-india/</link>
+       <pubDate>Sat, 25 Jan 2020 14:22:44 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/problems-with-working-remotely-from-india/</guid>
+       <description>&lt;p&gt;Remote work is great for so many reasons. You get to work from wherever you want,
+you don’t have to commute to the office and get stuck in traffic. It is great if
+you want to travel the world and work at the same time. It is great if you have
+kids to take care of and parents to help at home. You don’t have to move to a
+different city. And many other such wonderful things. I enjoyed my time as a remote
+developer and still do.&lt;/p&gt;
+&lt;p&gt;But just like everything else, it too has problems.  I will only talk about the
+problems of doing remote work from India, because that’s what I am most familiar with.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proof of Employment&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most remote developers working for an offshore company are not officially employees
+of that company. Developers charge them monthly invoices. The company cannot provide
+developers monthly pay slips, form 16 or employee benefits. At my age, couldn’t care
+less about employee benefits (I should though), but I do care about pay slips. For
+most traditional institutions, pay slip is the proof that you have a steady source of
+income. Without that you fall into the category of self-employed. You can show your
+contract with the company and recurring transactions of income, but that won’t work.
+Pay slips are just too straightforward  and easy for them, they just don’t want to deal
+with anything else.
+Try applying for a credit card without a payslip. You will either have to wait until
+you file multiple Income Tax Returns or maintain good balance for a reasonable time.
+And still your credit limit will be much lower than someone earning the same amount,
+but has a pay slip. For my visa applications, I had to highlight multiple transactions
+in my bank statements, provide certificates for my business entity, a copy of my really
+long consulting contract. Which government officer wants put efforts in going through
+all that? They would be happy to serve someone with a payslip and choose to avoid you
+who is confusing them with so much paperwork. A huge number of Indian professionals
+are first generation of office-goers in their family. They don’t have many proofs to
+show their financial stability. In that way, a pay slip, I think, would matter more
+than it does in other countries.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Visas&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Remote developers would need to travel offshore to meet their colleagues. I have wasted
+a considerable amount of time preparing my visa applications. If I had someone to handle
+that for me, I would have been a much happier developer and put more of my time in doing
+software development.
+As far as I know, most MNCs in Bangalore, handle visa for their employees. I can’t
+expect a remote-first offshore company to do my visas for me, especially if it is small,
+which almost all of them are. They don’t know how to deal with this problem any better
+than you do. And honestly, doing this may be sub-optimal use of their time and it is better
+spent on something else productive.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Handling taxes myself&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;It is sub-optimal use of my time. My time is best spent on software development. By now I
+know a lot about taxing than what I did a year ago, more than some local CAs. Which is not
+a complement on me, but a remark on many CAs.
+Finding a good CA is tough. Finding the one you can trust is even tougher. I had to
+cross-verify things they were saying and often times, what they were saying would be wrong.
+Often instead of them giving me ideas on how to save taxes, I had to tell them and they nod
+yes. One of them had this grand idea of making me pay 35% tax (30% is max tax for the highest
+slab). I think I have finally found the right CA.
+But given the option, I would have chosen to learn none these and would have delegated this
+to someone else.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Loneliness&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;When you go to the office, you can make friends, talk to people and maintain your sanity.
+Sitting at home with no one to talk to, you get bored and insane. It could make sense for
+someone with the family, but that’s not the case here. A large chunk of Indian developers
+are in their 20s, avoiding marriage. Plus most of them are living in metros, far away from
+their hometown. So, your office circle is your primary social circle. They can try to go
+back to their hometown, but that place would not have good facilities and other developer
+peers.
+You could try going to some coworking space, but they are simply put useless. The problem
+with today’s offices is that they are so open, noisy, distracting and everyone just keep
+pulling each other into their solving their problems. I would be surprised if any real work
+gets done in a coworking space, because they are not optimized for productivity and
+&lt;code&gt;collaboration&lt;/code&gt;.
+But why do you care, you want to go there to socialize anyway. Problem is that most of the
+coworking spaces are  occupied by startup teams. They have their own circle and not need to
+socialize with other.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Unreliable Internet&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Out of all the problems, this one can be most easily addressed. I had two wired internet
+connections (Spectra and Airtel). Sadly, there was metro construction outside my society.
+Most of India is developing rapidly. This is the story of almost everywhere. Construction
+is going on everywhere from metros to villages. Because of that they would break cable every
+few days. I have attended quite a few meetings on relatively slow wireless internet.
+Interestingly, my society was inside a tech park. They surely don’t have internet outages.
+Companies have separate connections that goes deeper and doesn’t get broken easily. Only if
+I could get that connection for my apartment!&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;No office&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I know complaining about not having an office is so not remote-like. This is a problem
+nonetheless.
+Like it or not, but staying at home and working is not easy. I have weights and ropes in
+my room right next to my table, but I rarely use them. I end up doing more exercise when
+I wear my shoes and get out of my house at 6 in the morning. Most human habits are based
+on rituals. Going to office is a ritual that gives you a mental switch and ensures that
+you will work. Waking up early is the ritual. If you do it, you are much more likely to
+exercise. With a home office, it is difficult to balance work and life.
+Plus, most indian households are noisy, chaotic, sudden guests and in general not a great
+place to work. If you stay at home, someone will ring the doorbell, you will have to take
+your dog to pee, attend the electrician, give your brother’s friend his book back and many
+other small tasks just enough to stop you from long stretch of focussed work.&lt;/p&gt;
+&lt;p&gt;I think most of these are problems for the companies as well, since these things make their
+developers less productive. And fixing them will make more developers open to remote working.
+I am trying to solve some of these problems with remote91.in. Check it out and get in touch
+to solve them for your company.&lt;/p&gt;
+</description>
+     </item>
+   
+     <item>
+       <title>Which Cryptocurrencies Will Survive</title>
+       <link>https://kishansagathiya.github.io/posts/which-cryptocurrencies-will-survive/</link>
+       <pubDate>Thu, 16 Jan 2020 14:24:27 +0530</pubDate>
+       
+       <guid>https://kishansagathiya.github.io/posts/which-cryptocurrencies-will-survive/</guid>
+       <description>&lt;p&gt;I am in the cryptocurrency/blockchain space now for about more than two years. Overtime,
+I have developed a hypothesis of my own about what it will take to make a cryptocurrency
+successful in the long run.&lt;/p&gt;
+&lt;p&gt;To understand this we have to realize that cryptocurrencies are directly opposite to the
+government. Much of the power that the government gets is from its ability to control the
+money, collect taxes, being able to spend that money in different sectors as government feels
+appropriate. If a cryptocurrency replaces currency of the government (fiat currency), that
+shifts all the power from the government to people who control that cryptocurrency (developers,
+miners, users). In the resulting powerless government, you have a society with no order and
+everything goes haywire.&lt;/p&gt;
+&lt;p&gt;To tackle economic problems such as unemployment and inflation, government has primarily
+two ways, fiscal policy (adjust taxation and government spending, usually done by the goverment
+department) and monetary policy (adjust money supply and interest rates, usually done by the
+central bank). There is clearly no way to implement monetary policy in cryptocurrency world
+because of its fundamental virtue (decentralization). In an imaginary world full of honest
+taxpayers, government can implement fiscal policy, but clearly that will never happen. Some
+countries have introduced negative tax rates to increase business and employment. That can&amp;rsquo;t
+happen if government does not control the currency.&lt;/p&gt;
+&lt;p&gt;I am convinced that cryptocurrencies are here to stay, but most likely they won&amp;rsquo;t replace fiat
+currencies or central banks, but will replace gold and store credits. If cryptocurrencies
+replace central banks, that society and economy will be controlled by people controlling those
+cryptocurrencies (rich people), and thus would be worse than what we have now.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;With that bit of context, these are the things I think are needed for a cryptocurrency to
+replace fiat currencies&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;It can be used even if it can&amp;rsquo;t be traded with fiat currencies.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Most cryptocurrencies today will see a sharp decline in their value if they cannot be traded with
+fiat currencies, which means their value still comes from fiat currencies and are merely gambles.
+Governments allow cryptocurrencies until they don&amp;rsquo;t see a real threat from them, which is when their
+value comes from fiat or they can control and monitor transactions by rules and regulations (government
+can take away the value whenever they want). One way to do this is obviously having the trust of
+users. One more way is to codify it in such a way that it can be traded for a valuable digital resource
+(computation, storage, network).&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maintained by developers which are unknown&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If the group that maintains source code of the cryptocurrency is public, the government can control
+them and influence their decisions either by bringing forward new regulations or forcefully.
+Controlling those developers translates to controlling the currency. Also, it would be nice if no
+single developer has a cult like following and many developers contribute relatively equally. It is
+really rare for that to happen, that too on its own. If a cryptocurrency source code and technology
+is maintained by group is publicly known and concentrated in country X, it a national security threat
+for a country Y where that particular cryptocurrency is getting popular.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Users can remain anonymous&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That way it remains usable even if banned.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Solid protocol with bug-free implementation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This one is obvious. Users will lose money because of bugs in implementation or loopholes in the
+protocol and will likely not trust again.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Decentralized way to download the client&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There are ways to do this, but I am not sure if it is possible or easy with the internet as it is
+today. Take inspirations from IPNS and DNS-Links. Different peers would have different versions
+of client. Match client copies of version that you want and download the most common one. Something
+that can be downloaded from bitcoin.org or ethereum.org still seems pretty centralized to me.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Cryptocurrencies that matches most with above, are generally popular for illegal activities,
+funding crimes, black money etc. So, this seems like a good rule of thumb.&lt;/p&gt;
+&lt;p&gt;I think someone who wants to make a strong cryptocurreny can learn a lot from torrents and its
+community. It is an amazing technology where developers are not so famous, there are multiple clients,
+multiple torrent link providers, multiple seeder and leechers etc. It is decentralized in many ways.
+It has survived despite government bans. Domain names got banned, but there are many torrent-listing
+sites with different domains and now there are sites that provide lists of active torrent-listing
+sites. Regardless of whether you like or dislike torrents because of its legality, it provides a
+great model for distributed software.&lt;/p&gt;
+&lt;p&gt;Most cryptocurrencies can be divided into four categories based on how many boxes it ticks
+from above listed properties (most boxes to least)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rupee-alternative&lt;/li&gt;
+&lt;li&gt;Gold-alternative&lt;/li&gt;
+&lt;li&gt;Store credits&lt;/li&gt;
+&lt;li&gt;Gamble&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Gamble currencies will disappear eventually. Store credits stay as long as the store stands. Gold is
+timeless (but which one?). Rupee-alternative is hopefully never happening.&lt;/p&gt;
+</description>
+     </item>
+   
+ </channel>
+</rss>
