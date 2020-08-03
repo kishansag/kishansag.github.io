@@ -3,6 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kishansagathiya.github.io/blockchain/</loc>
+    <lastmod>2020-08-02T16:54:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kishansagathiya.github.io/blockchain/definitions/</loc>
+    <lastmod>2020-08-02T16:54:39+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kishansagathiya.github.io/</loc>
+    <lastmod>2020-08-02T16:54:39+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://kishansagathiya.github.io/talks/</loc>
     <lastmod>2020-08-01T12:13:58+05:30</lastmod>
   </url>
@@ -14,11 +29,6 @@
   
   <url>
     <loc>https://kishansagathiya.github.io/posts/golang-is-not-truly-opensource/</loc>
-    <lastmod>2020-07-24T13:57:10+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kishansagathiya.github.io/</loc>
     <lastmod>2020-07-24T13:57:10+05:30</lastmod>
   </url>
   
