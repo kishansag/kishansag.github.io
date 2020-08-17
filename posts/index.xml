@@ -6,10 +6,20 @@
     <description>Recent content in Posts on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 Jul 2020 13:57:10 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2020 16:02:12 +0530</lastBuildDate>
     
 	<atom:link href="https://kishansagathiya.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Long Bets, Long Gains</title>
+      <link>https://kishansagathiya.github.io/posts/long-bets-long-gains/</link>
+      <pubDate>Mon, 17 Aug 2020 16:02:12 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/posts/long-bets-long-gains/</guid>
+      <description>Most people make money with a fairly understandable model. They perform some task for which they are sure that someone will pay them in some limited time. Doctors know that you will pay them once they give you advice and medicine. A shopkeeper knows that there are people around him who want toothpastes, so he would get lots of toothpastes and make them available to closeby people.
+Most of these are fairly short term bets.</description>
+    </item>
     
     <item>
       <title>Golang Is Not Truly Opensource</title>
