@@ -6,10 +6,49 @@
     <description>Recent content on Kishan Sagathiya</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Aug 2020 22:35:10 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2020 11:41:11 +0530</lastBuildDate>
     
 	<atom:link href="https://kishansagathiya.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Investing</title>
+      <link>https://kishansagathiya.github.io/posts/investing/</link>
+      <pubDate>Sun, 22 Nov 2020 11:41:11 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/posts/investing/</guid>
+      <description>For a growing country like India, depending on the year inflation can get somewhere around 6% to even 12%. That means value of your cash decreases a good amount every year. Bank Fixed Deposit rates are generally lower than inflation rates. Keep in mind that, you also have to pay 1% tax on income from Fixed Deposits.
+To solve the problem of decreasing value of an individual&amp;rsquo;s money it is important to invest, in particular invest in stock market.</description>
+    </item>
+    
+    <item>
+      <title>Solitude</title>
+      <link>https://kishansagathiya.github.io/life-tips/solitude/</link>
+      <pubDate>Sun, 01 Nov 2020 09:04:52 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/life-tips/solitude/</guid>
+      <description> How solitude and isolation can affect your social skills </description>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>https://kishansagathiya.github.io/life-tips/sleep/</link>
+      <pubDate>Sun, 01 Nov 2020 09:02:45 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/life-tips/sleep/</guid>
+      <description> title: &amp;ldquo;Sleep&amp;rdquo; date: 2020-09-07T13:02:52+05:30 draft: false  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Reinforcement Learning</title>
+      <link>https://kishansagathiya.github.io/rl/introduction/</link>
+      <pubDate>Sun, 23 Aug 2020 00:05:13 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/rl/introduction/</guid>
+      <description>Reinforcement learning is an important type of Machine Learning where an agent learn how to behave in a environment by performing actions and seeing the results.
+The idea behind Reinforcement Learning is that an agent will learn from the environment by interacting with it and receiving rewards for performing actions.
+Learning from interaction with the environment comes from our natural experiences. Imagine you’re a child in a living room. You see a fireplace, and you approach it.</description>
+    </item>
     
     <item>
       <title>References</title>
@@ -96,7 +135,7 @@ I have a certain image of an Open Source project in my mind:
       <description>In general the rule of thumb in taking advice is do as I do, not do as I say.
 Internet is filled with successful people giving advices. Elon Musk, Peter Theil, etc. Apply their advice in your life and you will live a miserable poor life.
 Let me break this down.
-Most of successful people thinks that world is what they have experienced. In reality, they are all outliers. World they experience is vastly different than any one of us experience.</description>
+Most of successful people think that world is what they have experienced. In reality, they are all outliers. World they experience is vastly different than any one of us experience.</description>
     </item>
     
     <item>
@@ -125,9 +164,9 @@ A mutual fund house is not sufficiently incentivized to grow money invested in t
       <pubDate>Sat, 20 Jun 2020 14:03:18 +0530</pubDate>
       
       <guid>https://kishansagathiya.github.io/posts/spineless-intelligents-will-work-for-risk-taking-idiots/</guid>
-      <description>In a world full of so many opportunities, where a poor person has all the valuable information at their disposle to make their life better, intelligent and hard-working people are abundant.
-In the working world, there are basically two kinds of people, enterpreneurs and investor.
-Enterpreneurs do all sorts of unconventional things to get users and create hype for whatever they are doing. A significant number of them are scams, dillusional and are trying to do things in which they have no expertise, but they will claim to have expertise in them.</description>
+      <description>In a world full of so many opportunities, where a poor person has all the valuable information at their disposal to make their lives better, intelligent and hard-working people are abundant.
+In the business world, there are basically two kinds of people except your average office-goer Joe with a job, enterpreneurs and investors.
+Enterpreneurs do all sorts of unconventional things to get users and create hype for whatever they are doing.</description>
     </item>
     
     <item>
@@ -157,7 +196,7 @@ Currently, education is free. If you want to learn anything, you can go online, 
       
       <guid>https://kishansagathiya.github.io/posts/income-share-agreements/</guid>
       <description>Income Share Agreements are an excuse for education companies and colleges to charge a lot more money than what they truly deserve. A better way to do this would be to charge companies when they want to hire fresh graduates.
-High tuition fees are unjustifiable, because knowledge has become cheap. The internet is filled with wonderful study materials, books, videos and tutorials. In such an environment, the marginal cost of a new study material that your college/bootcamp/(whatever new fancy thing they like to call these days) provide is negligible (close to zero).</description>
+High tuition fees are unjustifiable, because knowledge has become cheap. The internet is filled with wonderful study materials, books, videos and tutorials. In such an environment, the marginal cost of a new study material that your college/bootcamp/(whatever new fancy thing they like to call them these days) provide is negligible (close to zero).</description>
     </item>
     
     <item>

@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+  <title>Introduction to Reinforcement Learning | Kishan Sagathiya</title>
+
+  <meta charset="UTF-8">
+  <meta name="language" content="en">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  
+  
+
+  <link rel="shortcut icon" type="image/png" href="/favicon.ico" />
+
+  
+  
+    
+ 
+  
+  
+  
+  
+  
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/post.min.2cb93c91050d1853bf971cc31e00122edd6e0f405aa1de3b7f8ef67ea3b5a79a.css" integrity="sha256-LLk8kQUNGFO/lxzDHgASLt1uD0Baod47f472fqO1p5o="/>
+  
+    
+    <link type="text/css" rel="stylesheet" href="/css/custom.min.e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855.css" integrity="sha256-47DEQpj8HBSa&#43;/TImW&#43;5JCeuQeRkm5NMpJWZG3hSuFU="/>
+  
+  
+   
+   
+    
+
+<script type="application/ld+json">
+  
+    { 
+      "@context": "http://schema.org", 
+      "@type": "WebSite", 
+      "url": "https:\/\/kishansagathiya.github.io\/rl\/introduction\/",
+      "name": "Introduction to Reinforcement Learning",
+      "author": {
+        "@type": "Person",
+        "name": ""
+      },
+      "description": ""
+    }
+  
+  </script>
+</head>
+
+<body>
+  <div class="burger__container">
+  <div class="burger" aria-controls="navigation" aria-label="Menu">
+    <div class="burger__meat burger__meat--1"></div>
+    <div class="burger__meat burger__meat--2"></div>
+    <div class="burger__meat burger__meat--3"></div>
+  </div>
+</div>
+ 
+
+  <nav class="nav" id="navigation">
+  <ul class="nav__list">
+    
+    
+      <li>
+        <a  href="/">Home</a>
+      </li>
+    
+      <li>
+        <a  href="/about/">About</a>
+      </li>
+    
+      <li>
+        <a  href="https://pullrecruit.masterinai.com/score/kishansagathiya">PullRecruit</a>
+      </li>
+    
+      <li>
+        <a  href="https://masterinai.com/">Master in AI</a>
+      </li>
+    
+      <li>
+        <a  href="/talks/">Talks</a>
+      </li>
+    
+      <li>
+        <a  href="https://medium.com/@kishansagathiya">Old Blog</a>
+      </li>
+    
+      <li>
+        <a  href="/life-tips/">Life Tips</a>
+      </li>
+    
+      <li>
+        <a  href="/posts/">Posts</a>
+      </li>
+    
+  </ul>
+</nav>
+
+
+  <main>
+    
+    
+
+    <div class="flex-wrapper">
+      <div class="post__container">
+        <div class="post">
+          <header class="post__header">
+            <h1 id="post__title">Introduction to Reinforcement Learning</h1>
+            <time datetime="2020-08-23 00:05:13 &#43;0530 IST" class="post__date">Aug 23 2020</time> 
+          </header>
+          <article class="post__content">
+              
+<p>Reinforcement learning is an important type of Machine Learning where an agent learn how to behave in a environment by performing actions and seeing the results.</p>
+<p>The idea behind Reinforcement Learning is that an agent will learn from the environment by interacting with it and receiving rewards for performing actions.</p>
+<p>Learning from interaction with the environment comes from our natural experiences. Imagine you’re a child in a living room. You see a fireplace, and you approach it.</p>
+<p><img src="/images/rl/1.png" alt=""></p>
+<p>It’s warm, it’s positive, you feel good (Positive Reward +1). You understand that fire is a positive thing.</p>
+<p><img src="/images/rl/2.png" alt=""></p>
+<p>But then you try to touch the fire. Ouch! It burns your hand (Negative reward -1). You’ve just understood that fire is positive when you are a sufficient distance away, because it produces warmth. But get too close to it and you will be burned.</p>
+<p>That’s how humans learn, through interaction. Reinforcement Learning is just a computational approach of learning from action.</p>
+<h1 id="the-reinforcement-learning-process">The Reinforcement Learning Process</h1>
+<p><img src="/images/rl/3.png" alt=""></p>
+<p>Let’s imagine an agent learning to play Super Mario Bros as a working example. The Reinforcement Learning (RL) process can be modeled as a loop that works like this:</p>
+<ul>
+<li>Our Agent receives state <strong>S0</strong> from the <strong>Environment</strong> (In our case we receive the first frame of our game (state) from Super Mario Bros (environment))</li>
+<li>Based on that <strong>state S0</strong>, agent takes an <strong>action A0</strong> (our agent will move right)</li>
+<li>Environment transitions to a <strong>new state S1</strong> (new frame)</li>
+<li>Environment gives some <strong>reward R1</strong> to the agent (not dead: +1)</li>
+</ul>
+<p>The goal of the agent is to maximize the expected cumulative reward.</p>
+<h1 id="the-central-idea-of-the-reward-hypothesis">The central idea of the Reward Hypothesis</h1>
+<p>Why is the goal of the agent to maximize the expected cumulative reward?</p>
+<p>Well, Reinforcement Learning is based on the idea of the reward hypothesis. All goals can be described by the maximization of the expected cumulative reward.</p>
+<p>That’s why in Reinforcement Learning, to have the best behavior, we need to maximize the expected cumulative reward.</p>
+<p>The cumulative reward at each time step t can be written as:</p>
+<p><img src="/images/rl/4.png" alt=""></p>
+<p>Which is equivalent to:</p>
+<p><img src="/images/rl/5.png" alt=""></p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-go" data-lang="go"><span style="color:#75715e">// User contains information about users.
+</span><span style="color:#75715e"></span><span style="color:#66d9ef">type</span> <span style="color:#a6e22e">User</span> <span style="color:#66d9ef">struct</span> {
+	<span style="color:#a6e22e">gorm</span>.<span style="color:#a6e22e">Model</span>
+	<span style="color:#a6e22e">Name</span>              <span style="color:#66d9ef">string</span> <span style="color:#e6db74">`gorm:&#34;not null&#34;`</span>
+	<span style="color:#a6e22e">Email</span>             <span style="color:#66d9ef">string</span>
+	<span style="color:#a6e22e">GithubUser</span>        <span style="color:#66d9ef">string</span> <span style="color:#e6db74">`gorm:&#34;unique;not null&#34;`</span>
+	<span style="color:#a6e22e">IsRecruiter</span>       <span style="color:#66d9ef">bool</span>   <span style="color:#e6db74">`gorm:&#34;not null&#34;`</span>
+	<span style="color:#a6e22e">IsMaintainer</span>      <span style="color:#66d9ef">bool</span>   <span style="color:#e6db74">`gorm:&#34;not null&#34;`</span>
+	<span style="color:#a6e22e">IsCandidate</span>       <span style="color:#66d9ef">bool</span>   <span style="color:#e6db74">`gorm:&#34;not null&#34;`</span>
+	<span style="color:#a6e22e">IsProfileComplete</span> <span style="color:#66d9ef">bool</span>   <span style="color:#e6db74">`gorm:&#34;not null&#34;`</span>
+	<span style="color:#a6e22e">Profile</span>           <span style="color:#66d9ef">string</span>
+}
+
+</code></pre></div><!-- raw HTML omitted -->
+
+
+              
+          </article>
+          
+
+ <div class="pagination">
+  
+
+  
+</div>
+
+          
+          <footer class="post__footer">
+            
+
+
+<div class="social-icons">
+  
+     
+    
+      <a class="social-icons__link" title="LinkedIn"
+         href="https://www.linkedin.com/in/kishansagathiya/"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://kishansagathiya.github.io/svg/linkedin.svg')"></div>
+      </a>
+    
+  
+     
+    
+      <a class="social-icons__link" title="GitHub"
+         href="https://github.com/kishansagathiya"
+         target="_blank" rel="noopener">
+        <div class="social-icons__icon" style="background-image: url('https://kishansagathiya.github.io/svg/github.svg')"></div>
+      </a>
+    
+     
+</div>
+
+            <p></p>
+          </footer>
+          </div>
+      </div>
+      
+    </div>
+    
+
+  </main>
+
+   
+
+  
+  <script src="/js/index.min.49e4d8a384357d9b445b87371863419937ede9fa77737522ffb633073aebfa44.js" integrity="sha256-SeTYo4Q1fZtEW4c3GGNBmTft6fp3c3Ui/7YzBzrr&#43;kQ=" crossorigin="anonymous"></script>
+  
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/components/prism-core.min.js"></script>
+
+  
+  <script src="https://unpkg.com/prismjs@1.20.0/plugins/autoloader/prism-autoloader.min.js"
+    data-autoloader-path="https://unpkg.com/prismjs@1.20.0/components/"></script>
+
+  
+
+
+</body>
+
+</html>

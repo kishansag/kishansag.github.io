@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Life-tips on Kishan Sagathiya</title>
+    <link>https://kishansagathiya.github.io/life-tips/</link>
+    <description>Recent content in Life-tips on Kishan Sagathiya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Nov 2020 09:04:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://kishansagathiya.github.io/life-tips/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Solitude</title>
+      <link>https://kishansagathiya.github.io/life-tips/solitude/</link>
+      <pubDate>Sun, 01 Nov 2020 09:04:52 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/life-tips/solitude/</guid>
+      <description> How solitude and isolation can affect your social skills </description>
+    </item>
+    
+    <item>
+      <title>Sleep</title>
+      <link>https://kishansagathiya.github.io/life-tips/sleep/</link>
+      <pubDate>Sun, 01 Nov 2020 09:02:45 +0530</pubDate>
+      
+      <guid>https://kishansagathiya.github.io/life-tips/sleep/</guid>
+      <description> title: &amp;ldquo;Sleep&amp;rdquo; date: 2020-09-07T13:02:52+05:30 draft: false  </description>
+    </item>
+    
+  </channel>
+</rss>
